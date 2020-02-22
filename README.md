@@ -1,8 +1,9 @@
 # Python Homework
-## Homework Includes Several Analyses : (1) Houston Election (2) Financial
-__________________
 
-###Houston Election Analysis 
+## Homework Includes Several Analyses
+____________________
+
+### Houston Election Analysis 
 
 Analysis to determine: 
  * total votes
@@ -12,7 +13,7 @@ Analysis to determine:
  * two advancing candidates
 __________________
 
-###Financial Analysis 
+### Financial Analysis 
 
 Analysis to determine: 
  * total months in data
