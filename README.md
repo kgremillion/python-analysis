@@ -1,9 +1,6 @@
-# Python Houston Election Analysis
-
-## Homework Includes Several Analyses
+# Python Analysis
 ____________________
-
-### Houston Election Analysis 
+### Houston Election
 
 Analysis to determine: 
  * total votes
